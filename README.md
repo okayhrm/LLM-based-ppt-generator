@@ -38,3 +38,19 @@ Built with Python and Streamlit, designed for speed, clarity, and simplicity.
 ```bash
 git clone https://github.com/okayhrm/llm-based-ppt-generator.git
 cd llm-based-ppt-generator
+```
+### 2. Add your OpenRouter API key
+Create a .env file in the root of the project:
+```bash
+echo 'OPENROUTER_API_KEY=your_openrouter_api_key_here' > .env
+```
+### 3. Install Dependencies
+```bash 
+pip install -r requirements.txt
+```
+### 4. Run the app
+```bash
+streamlit run app.py
+```
+
+
