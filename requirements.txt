@@ -1,0 +1,6 @@
+streamlit
+openai
+python-pptx
+duckduckgo-search
+python-dotenv
+Pillow
