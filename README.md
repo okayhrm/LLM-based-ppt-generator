@@ -1,7 +1,7 @@
 # LLM-based-ppt-generator
 # 🧠 LLM-Based PPT Generator 
 
-A personal-use AI tool that generates beautiful, structured PowerPoint presentations using Large Language Models (LLMs) like GPT-3.5, Mixtral, Mistral, and Claude — all powered via the OpenRouter API.
+A personal-use AI tool that generates beautiful, structured PowerPoint presentations using Large Language Models (LLMs) like GPT-3.5, Mixtral, Mistral, and Claude - all powered via the OpenRouter API.
 
 Built with Python and Streamlit, designed for speed, clarity, and simplicity.
 
